@@ -11,7 +11,8 @@
 </head>
 
 <body>
-  <div>
+  <div class="row">
+  <div class="container">
     <h1> Flowerology </h1>
   </div>
   <div>
@@ -35,6 +36,7 @@
       <ul> Telephone </ul>
       <ul> Email </ul>
       <ul> Network </ul>
+    </div>
     </div>
   </div>
   </div>
